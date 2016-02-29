@@ -79,7 +79,7 @@ The out schema is as follows:
 The latest chlorine-finder and chlorine-hive libraries can be downloaded [here](https://dataapps.io/chlorine.html#Opensource).
  
 ###Further Documentation
-[chlorine-finder wiki](https://github.com/dataApps/chlorine-hive/wiki)
+[chlorine-hive wiki](https://github.com/dataApps/chlorine-hive/wiki)
   
 ###Related projects
  
