@@ -77,6 +77,15 @@ The out schema is as follows:
 ### Download library jar
 
 The latest chlorine-finder and chlorine-hive libraries can be downloaded [here](https://dataapps.io/chlorine.html#Opensource).
+
+### maven Dependedency
+```
+<dependency>
+    <groupId>io.dataapps.chlorine</groupId>
+    <artifactId>chlorine-hive</artifactId>
+    <version>1.1.5</version>
+</dependency>
+```
  
 ###Further Documentation
 [chlorine-hive wiki](https://github.com/dataApps/chlorine-hive/wiki)
