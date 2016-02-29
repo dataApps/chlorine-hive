@@ -66,7 +66,8 @@ Time taken: 0.628 seconds, Fetched: 16 row(s)
 One row will be emitted for each column value containing a sensitive element. If multiple types of sensitive elements are found in a column value, then a row is emitted per type per column.
 The out schema is as follows:
 
-|column position|name| description|
+| column position | name | description |
+| --- | --- |--- | 
 |1|Type| sensitive data type. eg: email, credit card. This will be the name of the finder|
 |2|count| number of sensitive elements found in a specific column of a specific sensitive element type|
 |3|field position|the column position in the Hive table|
