@@ -22,12 +22,15 @@ Chlorine-hive can detect different types of Credit card numbers, SSN, Phone Numb
  hive> ADD JAR  /path/to/chlorine-finder-1.1.5.jar;
 Added [/path/to/chlorine-finder-1.1.5.jar]
 Added resources: [/path/to/chlorine-finder-1.1.5.jar]
+
 hive> ADD JAR  /path/to/chlorine-hive-1.1.5.jar;
 Added [/path/to/chlorine-hive-1.1.5.jar] to class path
 Added resources: [/path/to/chlorine-hive-1.1.5.jar]
+
 hive> CREATE TEMPORARY FUNCTION scan AS 'io.dataapps.chlorine.hive.ScanUDF';
 OK
 Time taken: 0.602 seconds
+
 hive> select * from userinfo_avro ;
 OK
 1	dsdsdsi	tests@tetts.com	123.34.456.23	608-34-2345	1234 sdsfd dr san jose ca 45454	sssss	fsfsfsf	gdgdd	dgdgdddds	2015	8	31
