@@ -8,7 +8,7 @@ Chlorine-hive can detect different types of Credit card numbers, SSN, Phone Numb
 
 ###To Download source code
 
-*git clone https://github.com/dataApps/chlorine-hove.git*
+*git clone https://github.com/dataApps/chlorine-hive.git*
 
 ###To build chlorine-hive
 
