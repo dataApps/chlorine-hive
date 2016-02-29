@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package io.dataapps.chlorine.pip.metadata.hive;
+package io.dataapps.chlorine.hive;
 
 import java.io.IOException;
 import java.io.StringWriter;
