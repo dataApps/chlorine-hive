@@ -1,6 +1,8 @@
 # chlorine-hive
-*Detect sensitive data in Hive using chlorine-finder*\
-The chlorine-hive library defines a UDF which can be used to detect sensitive elements in Hive tables. It is Java based.\
+*Detect sensitive data in Hive using chlorine-finder*.
+
+The chlorine-hive library defines a UDF which can be used to detect sensitive elements in Hive tables. It is Java based.
+
 Chlorine-hive can detect different types of Credit card numbers, SSN, Phone Numbers, email adddresses, Ip Addresses, Street Addresses in Hive tables.
 
 
