@@ -1,5 +1,5 @@
 # chlorine-hive
-*Detect sensitive data in Hive using chlorine-finder*.
+*Detect sensitive data in Hive Tables*.
 
 The chlorine-hive library defines a UDF which can be used to detect sensitive elements in Hive tables. It is Java based.
 
